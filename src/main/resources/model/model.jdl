@@ -1,0 +1,12 @@
+
+entity Person {
+	firstName String
+	lastName String
+}
+
+entity PersonMigrated {
+	firstName String
+	lastName String
+}
+
+service all with serviceImpl
