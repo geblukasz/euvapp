@@ -41,6 +41,8 @@
     "clientThemeVariant": "",
     "withAdminUi": true,
     "enableGradleEnterprise": false,
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "entities": ["Person", "PersonMigrated"],
+    "lastLiquibaseTimestamp": 1643834506000
   }
 }
